@@ -12,7 +12,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.vxly0ya.mongodb.net
       MONGODB_USERNAME: jrogerio69
-      MONGODB_PASSWORD: jrcm6969
+      MONGODB_PASSWORD: Jrcm6969
       # MONGODB_USERNAME: ${{ secrets.MONGODB_USERNAME }}
       # MONGODB_PASSWORD: ${{ secrets.MONGODB_PASSWORD }}
       PORT: 8080
